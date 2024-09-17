@@ -22,21 +22,21 @@
 
 🧭React Navigation : Enables smooth navigation between different screens in the app (main list, detail view, etc.).
 
-## Libraries:
+## 📚Libraries:
 
-react-navigation/bottom-tabs,
-react-navigation/native,
-react-navigation/native-stack,
-axios,
-iconsax-react-native,
-react,
-react-native,
-react-native-safe-area-context,
-react-native-screens,
-react-native-svg,
-react-redux,
-redux,
-redux-thunk
+📌react-navigation/bottom-tabs,
+📌react-navigation/native,
+📌react-navigation/native-stack,
+📌axios,
+📌iconsax-react-native,
+📌react,
+📌react-native,
+📌react-native-safe-area-context,
+📌react-native-screens,
+📌react-native-svg,
+📌react-redux,
+📌redux,
+📌redux-thunk
 
 🔴 This app provides an amazing experience for those who want to explore the world of Rick and Morty. 🚀
 
