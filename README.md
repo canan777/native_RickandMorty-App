@@ -50,7 +50,7 @@
 
 📌redux-thunk
 
-🔴 This app provides an amazing experience for those who want to explore the world of Rick and Morty. 🚀
+#### 🔴 This app provides an amazing experience for those who want to explore the world of Rick and Morty. 🚀
 
 ### Rick And Morty
 
