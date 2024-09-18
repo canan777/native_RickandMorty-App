@@ -1,6 +1,6 @@
 # ✅ native_RickandMorty-App
 
-### 📱 This React Native application is a project that brings the characters from the popular Rick and Morty series to users.
+#### 📱 This React Native application is a project that brings the characters from the popular Rick and Morty series to users.
 
 ## ✔ The main features of the app are as follows:
 
